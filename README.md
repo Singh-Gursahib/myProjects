@@ -11,3 +11,21 @@ Take control of your finances with my new expense tracker app built on Flutter! 
 - Visual insight with interactive graphs
 - Customizable UI/UX skins
 - Multi-platform support
+
+# Tic-Tac-Toe Game
+
+![Tic-Tac-Toe Game Screenshot](tictactoe.png)
+
+I wanted to share my first Flutter application: Tic-Tac-Toe!!
+
+Created in 2021, this game has a welcome screen, scoreboard, and fun-to-use UI. Coded with the Flutter framework in Dart. I highly recommend the Flutter framework for its ease of use and production workflow. It's a great place to begin the journey of cross-platform application development. 😇
+
+## Features
+
+- Welcome screen
+- Scoreboard
+- Fun-to-use UI
+
+## Requirements
+
+- Flutter SDK
