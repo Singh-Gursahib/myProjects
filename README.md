@@ -12,6 +12,7 @@ Take control of your finances with my new expense tracker app built on Flutter! 
 - Customizable UI/UX skins
 - Multi-platform support
 
+---
 # Tic-Tac-Toe Game
 
 ![Tic-Tac-Toe Game Screenshot](tictactoe.png)
@@ -26,6 +27,3 @@ Created in 2021, this game has a welcome screen, scoreboard, and fun-to-use UI. 
 - Scoreboard
 - Fun-to-use UI
 
-## Requirements
-
-- Flutter SDK
