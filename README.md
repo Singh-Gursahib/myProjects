@@ -15,7 +15,7 @@ Take control of your finances with my new expense tracker app built on Flutter! 
 ---
 # Tic-Tac-Toe Game
 
-![Tic-Tac-Toe Game Screenshot](tictactoe.png)
+<img src="tictactoe.png" alt="Expense Tracker App Screenshot" width="600">
 
 I wanted to share my first Flutter application: Tic-Tac-Toe!!
 
