@@ -1,6 +1,6 @@
 # Lottery App
 
-<img src="lotteryApp.png" alt="Expense Tracker App Screenshot" width="600">
+<img src="lotteryApp.png" alt="Expense Tracker App Screenshot" width="900">
 
 Dive into the world of lotteries with this app, a testament to my exploration and growth in Flutter. 🌈📱 Experience dynamic ticket customization, innovative barcode tech, and a lively user interface. This project reflects my ongoing commitment to merging design and functionality seamlessly. 🎓
 
