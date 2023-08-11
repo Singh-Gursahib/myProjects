@@ -8,7 +8,7 @@ Dive into the world of lotteries with this app, a testament to my exploration an
 
 - **Real-time Ticket Personalization**: Experience the ease of on-the-spot ticket adjustments.
 - **Barcode Decoding**: Innovative multi-game ticketing through precise barcode insights.
-- **Engaging Design**: A blend of colors and animations creating an inviting user environment.
+- **Engaging Design**: A blend of colours and animations creating an inviting user environment.
 - **Built with Flutter**: Emphasizing its cross-platform capabilities.
 
 ---
