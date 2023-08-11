@@ -1,3 +1,17 @@
+# Lottery App
+
+<img src="lotteryApp.png" alt="Expense Tracker App Screenshot" width="600">
+
+Dive into the world of lotteries with this app, a testament to my exploration and growth in Flutter. 🌈📱 Experience dynamic ticket customization, innovative barcode tech, and a lively user interface. This project reflects my ongoing commitment to merging design and functionality seamlessly. 🎓
+
+## Features
+
+- **Real-time Ticket Personalization**: Experience the ease of on-the-spot ticket adjustments.
+- **Barcode Decoding**: Innovative multi-game ticketing through precise barcode insights.
+- **Engaging Design**: A blend of colors and animations creating an inviting user environment.
+- **Built with Flutter**: Emphasizing its cross-platform capabilities.
+
+---
 # Expense Tracker App
 
 <img src="Untitled.png" alt="Expense Tracker App Screenshot" width="600">
