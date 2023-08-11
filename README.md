@@ -15,8 +15,8 @@ Dive into the world of lotteries with this app, a testament to my exploration an
 # Dynamic Math Website
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="mathCalcWebsite.png" alt="Dynamic Math Website Screenshot 1" width="440">
-    <img src="mathCalcWebsite2.png" alt="Dynamic Math Website Screenshot 2" width="440">
+    <img src="mathCalcWebsite.png" alt="Dynamic Math Website Screenshot 1" width="400">
+    <img src="mathCalcWebsite2.png" alt="Dynamic Math Website Screenshot 2" width="400">
 </div>
 
 Introducing a website designed to simplify complex math and boost problem-solving skills. This platform is a testament to my dedication to making mathematics more accessible and user-friendly. 🚀
