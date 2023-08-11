@@ -12,6 +12,29 @@ Dive into the world of lotteries with this app, a testament to my exploration an
 - **Built with Flutter**: Emphasizing its cross-platform capabilities.
 
 ---
+# Dynamic Math Website
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="mathCalcWebsite.png" alt="Dynamic Math Website Screenshot 1" width="440">
+    <img src="mathCalcWebsite2.png" alt="Dynamic Math Website Screenshot 2" width="440">
+</div>
+
+Introducing a website designed to simplify complex math and boost problem-solving skills. This platform is a testament to my dedication to making mathematics more accessible and user-friendly. 🚀
+
+## Features
+
+- **Simplify Complex Math**: Seamless operations like matrix addition, subtraction, and multiplication.
+- **Quadratic Equation Solver**: Effortlessly find roots for any quadratic equation.
+- **Advanced Features**: Sign up to unlock a richer mathematical experience.
+- **Responsive Design**: Optimized for tablets, mobile devices, and laptops.
+- **Eye-Catching UI/UX**: A blend of aesthetics and functionality for a delightful user experience.
+- **Robust Tech Stack**: Built on a foundation of HTML, CSS, and JavaScript for smooth and reliable performance.
+
+[Explore the Website](https://singh-gursahib.github.io/index.html)
+
+Dive into the world of math with me and discover its endless possibilities! 💡✨
+
+---
 # Expense Tracker App
 
 <img src="Untitled.png" alt="Expense Tracker App Screenshot" width="600">
