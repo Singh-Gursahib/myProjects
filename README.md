@@ -1,7 +1,7 @@
 # ChronoCraft: Crafting Time with Precision 🕰️
 
 <img src="chronoCraft1.png" alt="Expense Tracker App Screenshot" width="700">
-<img src="chronoCraft2.png" alt="Expense Tracker App Screenshot" width="600">
+<img src="chronoCraft2.png" alt="Expense Tracker App Screenshot" width="700">
 
 Step into the future of AI-driven shift scheduling with ChronoCraft, a conceptual showcase of my vision for effortless workplace management. 🌐📱 Witness dynamic shift planning, interactive AI communication, and a streamlined user interface. This concept epitomizes my aspiration to intertwine innovation and utility flawlessly. 🎓
 
