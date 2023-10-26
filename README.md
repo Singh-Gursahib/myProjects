@@ -1,3 +1,17 @@
+# ChronoCraft: Crafting Time with Precision 🕰️
+
+<img src="chronoCraft1.png" alt="Expense Tracker App Screenshot" width="900">
+<img src="chronoCraft2.png" alt="Expense Tracker App Screenshot" width="900">
+
+Step into the future of AI-driven shift scheduling with ChronoCraft, a conceptual showcase of my vision for effortless workplace management. 🌐📱 Witness dynamic shift planning, interactive AI communication, and a streamlined user interface. This concept epitomizes my aspiration to intertwine innovation and utility flawlessly. 🎓
+
+## Features
+
+- **Profile Customization**: Toggle effortlessly between `Admin` and `Employee` roles for a personalized user journey.
+- **AI-powered Chat Assistant**: Dive into real-time scheduling queries and receive instant answers from our responsive chatbot.
+- **Intuitive Calendar Display**: Grasp the entire biweekly shift landscape at a single glance, all organized and detailed.
+- **Adaptive Scheduling System**: Featuring real-time notifications, automatic adjustments, and an underlying AI-driven mechanism that ensures fairness and efficiency.
+---
 # Lottery App
 
 <img src="lotteryApp.png" alt="Expense Tracker App Screenshot" width="900">
